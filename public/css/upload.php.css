@@ -1,0 +1,176 @@
+
+
+.back{
+    background-color: #eeeeee;
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
+}
+
+.input{
+    border-radius: 5px;
+}
+
+#copyThis{
+    margin-top: 10px;
+    border: 1px solid  darkgray;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 18px;
+    background-color: white;
+}
+
+#copyThis2{
+    margin-top: 10px;
+}
+.counter{
+    background-color: #eeeeee;
+    border-radius: 20%;
+}
+.btnBox1{
+    text-align: right;
+}
+.prodName{
+    padding-top: 5px;
+}
+
+#prodLeftQuantity{
+    border-radius: 50%;
+}
+.intensity{
+    text-align: center;
+}
+
+
+body{
+
+}
+.back{
+    background-color: #eeeeee;
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
+}
+
+.input{
+border-radius: 5px;
+}
+.bigLeft{
+    margin-top: 150px;
+}
+.bottomRows{
+    margin-top: 10px;
+    border: 1px solid  darkgray;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 18px;
+    background-color: white;
+    width: 100%;
+
+}
+.counter{
+    background-color: #eeeeee;
+    border-radius: 20%;
+}
+.btnBox1{
+    text-align: right;
+}
+.prodName{
+    padding-top: 5px;
+    font-size: 18px;
+}
+.bigRight {
+    margin-top: 125px;
+    float:left;
+}
+#prodLeftQuantity{
+border-radius: 50%;
+}
+.menu_wrap {
+    position: fixed;
+    top:0px;
+    left: 1.5%;
+    z-index: 999;
+    width: 97%;
+    height: 50px;
+    background: #48cfad;
+    -webkit-box-shadow: 0px 2px 5px rgba(67,74,84,.8);;
+    -moz-box-shadow: 0px 2px 5px rgba(67,74,84,.8);;
+    box-shadow: 0px 2px 5px rgba(67,74,84,.8);;
+}
+.navLinks{
+    color:white;
+
+}
+.navElement{
+    height: 100%;
+    text-align: center;
+    padding-top: 13px;
+
+}
+ .navElement:hover{
+    background-color: #37bc9b;
+}
+.navElementImg:hover{
+    background-color: #37bc9b;
+}
+.navLinks:hover {
+    text-decoration: none;
+    color: white;
+}
+.homeImg{
+    max-height: 50px;
+    width: auto;
+}
+.navElementImg{
+    height: 50px;
+    padding: 0px;
+    text-align: center;
+}
+.webName{
+    color: white;
+    font-family: 'Lobster', cursive;
+    display: inline;
+}
+.navElementName{
+    height: 100%;
+    text-align: center;
+    padding-top: 5px;
+}
+.webName::selection{
+    background: transparent;
+}
+.btnOk{
+    padding-left:0px;
+    background: linear-gradient(#37bc9b, #48cfad);
+    border-color: #37bc9b;
+    border-right: none;
+    border-bottom: none;
+    border-radius: 5px;
+    color: white;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
+.btnOk:hover{
+   background: #37bc9b;
+}
+.btnX{
+
+    text-align: center;
+    background: linear-gradient(#b7000c,red);
+    border-color: #b7000c;
+    border-right: none;
+    border-bottom: none;
+    border-radius: 5px;
+    color: white;
+}
+.btnX:hover{
+    background: #b7000c;
+}
+.wastedAddedHeader{
+    text-align:center;
+    font-size: 18px;
+    font-weight: bold
+}
+
+
+
+
+
